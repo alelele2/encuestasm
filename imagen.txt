@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Insertar img</title>
+</head>
+<body>
+	<h1>Ejemplo de imagen</h1>
+
+	<img src="deweymalcom.jpg">
+</body>
+</html>
